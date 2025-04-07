@@ -1,2 +1,12 @@
-# deepthi_text2sql.github.io
-This code Natural Language to SQL code generator built with a transformer model for your customized dataset 
+# Natural Language to SQL Query Generator
+
+
+Convert natural language questions about your data into SQL queries.
+
+## Features
+
+- NLP to SQL conversion
+- Query validation
+- Multiple dataset support
+- Results visualization
+- CSV export
