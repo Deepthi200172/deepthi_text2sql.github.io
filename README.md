@@ -3,7 +3,7 @@
 
 Convert natural language questions about your data into SQL queries.
 
-## Features
+## features of the project
 
 - NLP to SQL conversion
 - Query validation
